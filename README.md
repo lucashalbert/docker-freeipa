@@ -1,4 +1,4 @@
-[freeip-home]: https://www.freeipa.org/page/Main_Page
+[freeipa-home]: https://www.freeipa.org/page/Main_Page
 [travis]: https://travis-ci.org/lucashalbert/docker-freeipa
 [microbadger]: https://microbadger.com/images/lucashalbert/freeipa
 [dockerstore]: https://store.docker.com/community/images/lucashalbert/freeipa
