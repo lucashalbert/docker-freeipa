@@ -10,5 +10,6 @@ A multi-architecture freeipa image built on CentOS-7 linux. This image is compat
 [![Docker Pulls](https://img.shields.io/docker/pulls/lucashalbert/freeipa.svg)][dockerstore]
 [![Docker Stars](https://img.shields.io/docker/stars/lucashalbert/freeipa.svg)][dockerstore]
 
-## [FreeIPA][freeipa-home].
-![freeipa-logo](https://www.freeipa.org/images/freeipa/freeipa-logo-small.png)
+---
+
+[![freeipa-logo](https://www.freeipa.org/images/freeipa/freeipa-logo-small.png)][freeipa-home]
